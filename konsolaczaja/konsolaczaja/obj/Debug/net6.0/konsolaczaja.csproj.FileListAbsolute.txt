@@ -1,0 +1,14 @@
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\bin\Debug\net6.0\konsolaczaja.exe
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\bin\Debug\net6.0\konsolaczaja.deps.json
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\bin\Debug\net6.0\konsolaczaja.runtimeconfig.json
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\bin\Debug\net6.0\konsolaczaja.dll
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\bin\Debug\net6.0\konsolaczaja.pdb
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.AssemblyInfoInputs.cache
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.AssemblyInfo.cs
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.csproj.CoreCompileInputs.cache
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.dll
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\refint\konsolaczaja.dll
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.pdb
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\konsolaczaja.genruntimeconfig.cache
+C:\Users\student\source\repos\konsolaczaja\konsolaczaja\obj\Debug\net6.0\ref\konsolaczaja.dll
